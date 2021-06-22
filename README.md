@@ -1,6 +1,8 @@
 # LMP(Library Management Project)
 
 * The project functions the basic requirements in Library Management.
-### Pre-requesties
-* Download Xampp(server) latest version 
-### Features
+### Technology used 
+
+* Front-end: Html, CSS, Javascrpit
+* Backend: Php, MySQL
+* Server : Xampp
